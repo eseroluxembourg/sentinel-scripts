@@ -1,5 +1,5 @@
 ﻿/*
-Name:    Sentinel-2 Water Quality (Se2WaQ) 
+Name:    Sentinel-2 Water Quality (Se2WaQ) that visualizes cyanobacteria by default
 Version: 1.0
 Date:    2020-01-31
 
@@ -18,7 +18,7 @@ Refs.: [1]M. Potes et al., “Use of Sentinel 2 – MSI for water quality
 */
 
 // user defined FLAGs
-var FLAGparam = 5;
+var FLAGparam = 1;
 var FLAGbackGround = 2;
 
 // Water-land contrast index (to define the background)
